@@ -1,6 +1,6 @@
 # TryHackMe
 
-<img align="right" src="https://github.com/matthernet/Writeups/blob/main/TryHackMe/images/tryhackme-logo.png" width="280" height="150">
+<img align="right" src="https://github.com/matthernet/Writeups/blob/main/TryHackMe/tryhackme-logo.png" width="280" height="150">
 
 **[https://tryhackme.com/](https://tryhackme.com/)**
 
