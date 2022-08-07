@@ -7,8 +7,7 @@
 Hands-on cybersecurity training through real-world scenarios
 
 ### FYI
-This writeups don't include any passwords/cracked hashes/flags
-
+These writes do not include any passwords/cracked hashes/flags
 
 
 ## Rooms
