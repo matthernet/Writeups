@@ -1,13 +1,15 @@
 # John The Ripper
 
-<img align="right" src="https://github.com/matthernet/Writeups/blob/main/TryHackMe/Walkthrough/images/agentt1.png" width="150" height="150">
+<img align="right" src="https://github.com/matthernet/Writeups/blob/main/TryHackMe/Walkthrough/images/johntheripper01.png" width="150" height="150">
 
 Learn how to use John the Ripper - An extremely powerful and adaptable hash cracking tool.
 
-LINK = [https://tryhackme.com/room/johntheripper0]([https://tryhackme.com/room/agentt](https://tryhackme.com/room/johntheripper0))
+LINK = [https://tryhackme.com/room/johntheripper0](https://tryhackme.com/room/johntheripper0)
 
 ### FYI
 This writeup don't include any passwords/cracked hashes/flags
+
+In this writeup i'll cover the technical tasks 4,5,6,7,9,10,11
 
 # Description
 
