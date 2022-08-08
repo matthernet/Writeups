@@ -17,3 +17,5 @@ These writes do not include any passwords/cracked hashes/flags
 ## Walkthroughs
 
 * [https://tryhackme.com/room/johntheripper0](https://github.com/matthernet/Writeups/blob/main/TryHackMe/Walkthrough/johntheripper0.md) - Easy :green_square:
+
+* [https://tryhackme.com/room/ohsint](https://github.com/matthernet/Writeups/blob/main/TryHackMe/Walkthrough/ohsint.md) - Easy :green_square:
