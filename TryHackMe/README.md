@@ -13,3 +13,7 @@ These writes do not include any passwords/cracked hashes/flags
 ## Rooms
 
 * [https://tryhackme.com/room/agentt](https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/agentt.md) - Easy :green_square:
+
+## Walkthroughs
+
+* [https://tryhackme.com/room/johntheripper0](https://github.com/matthernet/Writeups/blob/main/TryHackMe/Walkthrough/johntheripper0.md) - Easy :green_square:
