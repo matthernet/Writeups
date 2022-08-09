@@ -1,6 +1,6 @@
 # Agent T
 
-<img align="right" src="https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/images/agentt1.png" width="150" height="150">
+<img align="right" src="https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/images/agentt/agentt1.png" width="150" height="150">
 
 Something seems a little off with the server. 
 
@@ -22,17 +22,17 @@ After deploying the vulnerable machine attached to this task, please wait a coup
 
 2 - Access the IP address of the virtual machine
 
-![](../Room/images/agentt2.png)
+![](../Room/images/agentt/agentt2.png)
 
 3 - Open the "Web Developer" tools in the browser and go to the Network tab
 
-![](../Room/images/agentt3.png)
+![](../Room/images/agentt/agentt3.png)
 
 4 - Reload the website and search the first GET request to the file ```/```
 
 5 - Check the response headers and notice that the website is using ```PHP/8.1.0-dev```
 
-![](../Room/images/agentt4.png)
+![](../Room/images/agentt/agentt4.png)
 
 6 - Search "php/8.1.0-dev exploit" which will lead you to this repository
 * https://github.com/flast101/php-8.1.0-dev-backdoor-rce
@@ -40,16 +40,16 @@ After deploying the vulnerable machine attached to this task, please wait a coup
 7 - Clone the repository
 * ```git clone https://github.com/flast101/php-8.1.0-dev-backdoor-rce.git```
 
-![](../Room/images/agentt5.png)
+![](../Room/images/agentt/agentt5.png)
 
 8 - Excecute the exploit and enter the IP address of the virtual machine to get root access
 * ```python3 backdoor_php_8.1.0-dev.py```
 
-![](../Room/images/agentt6.png)
+![](../Room/images/agentt/agentt6.png)
 
 9 - Find the flag file
 * ```find / -name flag.txt 2>/dev/null```
 
-![](../Room/images/agentt7.png)
+![](../Room/images/agentt/agentt7.png)
 
 10 - Get the flag!! 😎
