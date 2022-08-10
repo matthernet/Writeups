@@ -1,6 +1,6 @@
 # John The Ripper
 
-<img align="right" src="https://github.com/matthernet/Writeups/blob/main/TryHackMe/Walkthrough/images/johntheripper01.png" width="150" height="150">
+<img align="right" src="https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/images/johntheripper01.png" width="150" height="150">
 
 Learn how to use John the Ripper - An extremely powerful and adaptable hash cracking tool.
 
