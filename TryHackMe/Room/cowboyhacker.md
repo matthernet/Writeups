@@ -49,4 +49,4 @@ You were boasting on and on about your elite hacker skills in the bar and a few 
 * ```# find / -name flag.txt 2>/dev/null```
 <img src="https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/images/cowboyhacker/cowboyhacker4.png" width="25%">
 
-* Get the flag
+* Get the flag!! 😎
