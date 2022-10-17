@@ -1,5 +1,7 @@
 # Surfer
 
+Surf some internal webpages to find the flag!
+
 <img align="right" src="https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/images/surfer/surfer01.png" width="150" height="150">
 
 LINK = [https://tryhackme.com/room/surfer](https://tryhackme.com/room/surfer)
