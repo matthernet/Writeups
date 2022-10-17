@@ -19,4 +19,5 @@ These writes do not include any passwords/cracked hashes/flags
 * [https://tryhackme.com/room/committed](https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/committed.md) - Easy :green_square:
 * [https://tryhackme.com/room/picklerick](https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/picklerick.md) - Easy :green_square:
 * [https://tryhackme.com/room/corridor](https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/corridor.md) - Easy :green_square:
+* [https://tryhackme.com/room/crackthehash](https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/crackthehash.md) - Easy :green_square:
 * [https://tryhackme.com/room/somesint](https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/somesint.md) - Medium :yellow_square:
