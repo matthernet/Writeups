@@ -28,3 +28,4 @@ These writes do not include any passwords/cracked hashes/flags
 * [https://tryhackme.com/room/surfer](https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/surfer.md) - Medium :yellow_square:
 * [https://tryhackme.com/room/somesint](https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/somesint.md) - Medium :yellow_square:
 * [https://tryhackme.com/room/blog](https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/blog/blog.md) - Medium :yellow_square:
+* [https://tryhackme.com/room/gitandcrumpets](https://github.com/matthernet/Writeups/blob/main/TryHackMe/Room/gitandcrumpets/gitandcrumpets.md) - Medium :yellow_square:
